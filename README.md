@@ -1,4 +1,4 @@
-Custom Invisible Watermarking Prototype (HiDDeN-Style)
+Custom Invisible Watermarking Prototype
 
 Project Overview
 
